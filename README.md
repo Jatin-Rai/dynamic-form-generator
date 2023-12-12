@@ -2,7 +2,7 @@
 # Dynamic Form Generator
 
 An application to generate simple forms.
-[Click here](https://dynamic-formgenerator.netlify.app) to visit.
+- [Click here](https://dynamic-formgenerator.netlify.app) to visit.
 
 ### Prerequisites:
 - Make sure you have Node.js and npm installed on your machine.
